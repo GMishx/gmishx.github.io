@@ -1,0 +1,5 @@
+<map id="Fossology\Lib\Test\EnumMapTestBase" name="Fossology\Lib\Test\EnumMapTestBase">
+<area shape="rect" id="node3" href="$df/d4d/classFossology_1_1Lib_1_1Data_1_1Clearing_1_1ClearingEventTypesTest.html" title="{Fossology\\Lib\\Data\l\\Clearing\\ClearingEventTypesTest\n||+ testTypeUser()\l+ testTypeBulk()\l# setUp()\l}" alt="" coords="5,293,236,414"/>
+<area shape="rect" id="node4" href="$d6/da3/classFossology_1_1Lib_1_1Data_1_1DecisionScopesTest.html" title="{Fossology\\Lib\\Data\l\\DecisionScopesTest\n||+ testTypeItem()\l+ testTypePackage()\l+ testTypeRepository()\l# setUp()\l}" alt="" coords="260,285,427,421"/>
+<area shape="rect" id="node5" href="$d6/d34/classFossology_1_1Lib_1_1Data_1_1DecisionTypesTest.html" title="{Fossology\\Lib\\Data\l\\DecisionTypesTest\n||+ testTypeToBeDiscussed()\l+ testTypeIrrelevant()\l+ testTypeIdentified()\l# setUp()\l}" alt="" coords="451,285,646,421"/>
+</map>

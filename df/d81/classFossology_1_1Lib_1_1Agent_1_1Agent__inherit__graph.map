@@ -1,0 +1,10 @@
+<map id="Fossology\Lib\Agent\Agent" name="Fossology\Lib\Agent\Agent">
+<area shape="rect" id="node2" href="$d7/d6c/classFossology_1_1Decider_1_1DeciderAgent.html" title="Agent to decide license findings in an upload. " alt="" coords="5,512,288,1059"/>
+<area shape="rect" id="node3" href="$da/df8/classFossology_1_1DeciderJob_1_1DeciderJobAgent.html" title="Get the decision from Monk bulk and apply decisions. " alt="" coords="312,637,579,934"/>
+<area shape="rect" id="node4" href="$db/dde/classFossology_1_1ReportImport_1_1ReportImportAgent.html" title="{Fossology\\ReportImport\l\\ReportImportAgent\n|+ REPORT_KEY\l+ ACLA_KEY\l# $dbManager\l# $licenseDao\l# $clearingDao\l# $agent_pk\l&#45; $uploadDao\l&#45; $userDao\l&#45; $permissionDao\l&#45; $copyrightDao\l|+ __construct()\l+ processUploadId()\l&#45; setAgent_PK()\l&#45; getImportSource()\l&#45; preWorkOnArgsFlp()\l&#45; getEntries()\l&#45; getEntriesForFilename()\l&#45; getEntriesForHash()\l}" alt="" coords="603,622,786,949"/>
+<area shape="rect" id="node5" href="$d4/d03/classFossology_1_1Reuser_1_1ReuserAgent.html" title="The reuser agent. " alt="" coords="811,644,1056,927"/>
+<area shape="rect" id="node6" href="$d4/d89/classFossology_1_1SoftwareHeritage_1_1softwareHeritageAgent.html" title="{Fossology\\SoftwareHeritage\l\\softwareHeritageAgent\n|# $agentDao\l&#45; $uploadDao\l&#45; $licenseDao\l&#45; $configuration\l&#45; $dbManeger\l&#45; $softwareHeritageDao\l|+ __construct()\l+ processUploadId()\l+ processEachPfileForSWH()\l# getSoftwareHeritageLicense()\l# insertSoftwareHeritageRecord()\l}" alt="" coords="1080,673,1317,897"/>
+<area shape="rect" id="node7" href="$df/d02/classFossology_1_1SpdxTwo_1_1SpdxTwoAgent.html" title="SPDX2 agent. " alt="" coords="1342,527,1573,1044"/>
+<area shape="rect" id="node8" href="$d7/d57/classReadmeOssAgent.html" title="Readme_OSS agent generates list of licenses and copyrights found in an upload. " alt="" coords="1597,673,1803,897"/>
+<area shape="rect" id="node9" href="$d1/d15/classUnifiedReport.html" title="Generates unified report. " alt="" coords="1827,593,2050,978"/>
+</map>

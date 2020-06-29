@@ -1,0 +1,4 @@
+<map id="PkgAgentPlugin" name="PkgAgentPlugin">
+<area shape="rect" id="node2" href="$de/d33/classFossology_1_1Lib_1_1Plugin_1_1AgentPlugin.html" title="{Fossology\\Lib\\Plugin\l\\AgentPlugin\n|+ PRE_JOB_QUEUE\l+ $AgentName\l+ $Name\l+ $Dependency\l+ $Title\l+ $PluginLevel\l+ $State\l+ $DBaccess\l|+ __construct()\l+ execute()\l+ postInstall()\l+ preInstall()\l+ unInstall()\l+ getName()\l+ AgentHasResults()\l+ AgentAdd()\l+ __toString()\l# doAgentAdd()\l# implicitAgentAdd()\l}" alt="" coords="5,219,160,560"/>
+<area shape="rect" id="node3" href="$d8/d3d/interfaceFossology_1_1Lib_1_1Plugin_1_1Plugin.html" title="{Fossology\\Lib\\Plugin\l\\Plugin\n||+ execute()\l+ preInstall()\l+ postInstall()\l+ unInstall()\l+ getName()\l+ __toString()\l}" alt="" coords="8,5,157,171"/>
+</map>

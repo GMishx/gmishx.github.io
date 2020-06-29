@@ -1,0 +1,34 @@
+<map id="src/lib/cpp/libfossUtils.hpp" name="src/lib/cpp/libfossUtils.hpp">
+<area shape="rect" id="node2" href="$da/dd1/cleanEntries_8hpp_source.html" title="src/copyright/agent\l/cleanEntries.hpp" alt="" coords="177,80,322,121"/>
+<area shape="rect" id="node14" href="$d3/d66/database_8cc_source.html" title="src/copyright/agent\l/database.cc" alt="" coords="510,259,655,300"/>
+<area shape="rect" id="node15" href="$d6/d1a/FossologyUnicodeClean_8hpp.html" title="src/copyright/agent\l/FossologyUnicodeClean.hpp" alt="" coords="663,80,868,121"/>
+<area shape="rect" id="node17" href="$d0/dbe/libfossAgentDatabaseHandler_8cc.html" title="DB utility functions for agents. " alt="" coords="892,80,1060,121"/>
+<area shape="rect" id="node18" href="$d6/de9/libfossologyCPP_8hpp.html" title="The main FOSSology CPP library. " alt="" coords="1451,169,1615,211"/>
+<area shape="rect" id="node25" href="$d7/d50/libfossUtils_8cc.html" title="General utility functions for CPP. " alt="" coords="1357,87,1533,114"/>
+<area shape="rect" id="node26" href="$d7/d8f/databasehandler_8cc_source.html" title="src/ninka/agent/databasehandler.cc" alt="" coords="1558,87,1807,114"/>
+<area shape="rect" id="node27" href="$dd/d96/OjosDatabaseHandler_8hpp.html" title="Database handler for OJO. " alt="" coords="1085,80,1283,121"/>
+<area shape="rect" id="node3" href="$d3/dc0/cleanEntries_8cc.html" title="Clean strings. " alt="" coords="11,169,157,211"/>
+<area shape="rect" id="node4" href="$df/da2/database_8hpp_source.html" title="src/copyright/agent\l/database.hpp" alt="" coords="313,169,458,211"/>
+<area shape="rect" id="node6" href="$de/d6c/copyrightUtils_8hpp_source.html" title="src/copyright/agent\l/copyrightUtils.hpp" alt="" coords="233,348,378,389"/>
+<area shape="rect" id="node12" href="$d4/da3/copyright_2agent__tests_2Unit_2test__scanners_8cc_source.html" title="src/copyright/agent\l_tests/Unit/test_scanners.cc" alt="" coords="5,437,208,479"/>
+<area shape="rect" id="node5" href="$df/d6f/copyrightState_8hpp_source.html" title="src/copyright/agent\l/copyrightState.hpp" alt="" coords="338,259,486,300"/>
+<area shape="rect" id="node13" href="$df/dff/copyrightState_8cc_source.html" title="src/copyright/agent\l/copyrightState.cc" alt="" coords="402,348,547,389"/>
+<area shape="rect" id="node7" href="$d2/d05/copyright_8hpp_source.html" title="src/copyright/agent\l/copyright.hpp" alt="" coords="458,527,603,568"/>
+<area shape="rect" id="node9" href="$d0/d26/copyright_2agent_2directoryScan_8hpp_source.html" title="src/copyright/agent\l/directoryScan.hpp" alt="" coords="233,437,378,479"/>
+<area shape="rect" id="node11" href="$da/de3/copyrightUtils_8cc.html" title="Utilities used by copyright and ecc agent. " alt="" coords="402,437,547,479"/>
+<area shape="rect" id="node8" href="$d0/d76/copyright_8cc.html" title="Copyright agent. " alt="" coords="458,616,603,657"/>
+<area shape="rect" id="node10" href="$d6/d9b/copyright_2agent_2directoryScan_8cc.html" title="Utilities to scan directories. " alt="" coords="233,527,378,568"/>
+<area shape="rect" id="node16" href="$da/d22/FossologyUnicodeClean_8cc_source.html" title="src/copyright/agent\l/FossologyUnicodeClean.cc" alt="" coords="668,169,863,211"/>
+<area shape="rect" id="node19" href="$d8/de0/OjoUtils_8hpp_source.html" title="src/ojo/agent/OjoUtils.hpp" alt="" coords="997,355,1184,382"/>
+<area shape="rect" id="node20" href="$de/d84/ojo_2agent_2directoryScan_8hpp_source.html" title="src/ojo/agent/directoryScan.hpp" alt="" coords="1122,445,1347,471"/>
+<area shape="rect" id="node22" href="$db/d7e/ojos_8hpp_source.html" title="src/ojo/agent/ojos.hpp" alt="" coords="956,534,1119,561"/>
+<area shape="rect" id="node24" href="$d6/d78/OjoUtils_8cc.html" title="src/ojo/agent/OjoUtils.cc" alt="" coords="804,445,980,471"/>
+<area shape="rect" id="node21" href="$d9/d37/ojo_2agent_2directoryScan_8cc.html" title="Utilities to scan directories. " alt="" coords="1143,534,1358,561"/>
+<area shape="rect" id="node23" href="$d9/d44/ojos_8cc.html" title="Entry point for ojo agent. " alt="" coords="961,623,1114,650"/>
+<area shape="rect" id="node28" href="$df/d30/OjoAgent_8hpp.html" title="src/ojo/agent/OjoAgent.hpp" alt="" coords="902,177,1098,203"/>
+<area shape="rect" id="node33" href="$d5/d7a/OjosDatabaseHandler_8cc.html" title="Data base handler for OJO. " alt="" coords="1122,169,1321,211"/>
+<area shape="rect" id="node29" href="$df/df9/OjoState_8hpp.html" title="src/ojo/agent/OjoState.hpp" alt="" coords="782,266,975,293"/>
+<area shape="rect" id="node31" href="$d9/dd9/OjoAgent_8cc_source.html" title="src/ojo/agent/OjoAgent.cc" alt="" coords="1000,266,1187,293"/>
+<area shape="rect" id="node32" href="$d0/d9e/ojo_2agent__tests_2Unit_2test__scanners_8cc_source.html" title="src/ojo/agent_tests\l/Unit/test_scanners.cc" alt="" coords="1211,259,1375,300"/>
+<area shape="rect" id="node30" href="$dc/d37/OjoState_8cc_source.html" title="src/ojo/agent/OjoState.cc" alt="" coords="787,355,970,382"/>
+</map>

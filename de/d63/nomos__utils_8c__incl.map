@@ -1,0 +1,19 @@
+<map id="src/nomos/agent/nomos_utils.c" name="src/nomos/agent/nomos_utils.c">
+<area shape="rect" id="node2" href="$d7/d31/nomos__utils_8h_source.html" title="nomos_utils.h" alt="" coords="1774,95,1885,121"/>
+<area shape="rect" id="node7" href="$dd/d34/nomos_8h.html" title="Nomos header file. " alt="" coords="1115,244,1194,271"/>
+<area shape="rect" id="node3" href="$d8/d3c/util_8h_source.html" title="util.h" alt="" coords="2244,244,2297,271"/>
+<area shape="rect" id="node6" href="$da/d23/list_8h_source.html" title="list.h" alt="" coords="1850,169,1902,196"/>
+<area shape="rect" id="node47" href="$d4/de5/licenses_8h_source.html" title="licenses.h" alt="" coords="1632,169,1717,196"/>
+<area shape="rect" id="node48" href="$da/d42/process_8h_source.html" title="process.h" alt="" coords="1742,169,1826,196"/>
+<area shape="rect" id="node49" href="$da/d32/nomos__regex_8h_source.html" title="nomos_regex.h" alt="" coords="1983,169,2105,196"/>
+<area shape="rect" id="node27" href="$d0/d65/nomos__gap_8h_source.html" title="nomos_gap.h" alt="" coords="5,393,115,420"/>
+<area shape="rect" id="node31" href="$d7/ded/json__writer_8h.html" title="Handle JSON outputs. " alt="" coords="1445,319,1547,345"/>
+<area shape="rect" id="node32" href="$d8/d3b/libfossology_8h.html" title="The main FOSSology C library. " alt="" coords="1571,319,1677,345"/>
+<area shape="rect" id="node35" href="$d4/d4c/libfossdbmanager_8h_source.html" title="libfossdbmanager.h" alt="" coords="2003,468,2149,495"/>
+<area shape="rect" id="node33" href="$dc/d81/libfossscheduler_8h_source.html" title="libfossscheduler.h" alt="" coords="1691,393,1826,420"/>
+<area shape="rect" id="node34" href="$dc/df8/fossconfig_8h.html" title="FOSSology library to read config file. " alt="" coords="1011,468,1109,495"/>
+<area shape="rect" id="node40" href="$d1/dd3/libfossrepo_8h_source.html" title="libfossrepo.h" alt="" coords="803,393,906,420"/>
+<area shape="rect" id="node44" href="$d2/d5f/libfossdb_8h_source.html" title="libfossdb.h" alt="" coords="1471,393,1561,420"/>
+<area shape="rect" id="node45" href="$d8/d2f/libfossagent_8h_source.html" title="libfossagent.h" alt="" coords="2054,393,2165,420"/>
+<area shape="rect" id="node46" href="$d5/da6/sqlCopy_8h_source.html" title="sqlCopy.h" alt="" coords="1364,393,1447,420"/>
+</map>

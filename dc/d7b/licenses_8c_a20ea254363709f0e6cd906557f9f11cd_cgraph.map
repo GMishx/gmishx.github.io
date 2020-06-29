@@ -1,0 +1,23 @@
+<map id="saveLicenseData" name="saveLicenseData">
+<area shape="rect" id="node2" href="$dd/d34/nomos_8h.html#af79fdada26c50b7c62057adbf4ba33ca" title="Check if an CLI option is set. " alt="" coords="235,5,330,32"/>
+<area shape="rect" id="node3" href="$d5/d97/nomos_2agent_2util_8c.html#ae8c7cab687dc1922521b20620839924a" title="Blarg. Files that are EXACTLY a multiple of the system pagesize do not get a NULL on the end of the b..." alt="" coords="241,56,325,83"/>
+<area shape="rect" id="node4" href="$dc/d7b/licenses_8c.html#ab973b772ee0208bca2ef30602d44c070" title="Mark curent scan as LS_NOSUM (No_license_found) " alt="" coords="220,107,345,133"/>
+<area shape="rect" id="node5" href="$d5/d97/nomos_2agent_2util_8c.html#a9566ab45ffe08cd042db975b1e4f4f3d" title="VERY simple line count, does NOT have to be perfect! " alt="" coords="237,157,328,184"/>
+<area shape="rect" id="node6" href="$dc/d7b/licenses_8c.html#a361cdb128f632005e25a994f15231ac8" title="Prints keywords match to STDOUT. " alt="" coords="203,208,362,235"/>
+<area shape="rect" id="node7" href="$dd/d81/nomos__regex_8c.html#a1b4dd398ac13b4740d8e00e1ea65c8c8" title="compile a regex, and perform the search (on data?) " alt="" coords="247,259,318,285"/>
+<area shape="rect" id="node8" href="$db/d97/parse_8c.html#a2e3ff20866d3fd6276d6462e03d0a5ed" title="Parse a file to check all the possible licenses and add them to matches. " alt="" coords="226,309,339,336"/>
+<area shape="rect" id="node9" href="$d5/d97/nomos_2agent_2util_8c.html#a7c0e3895ed06433c641206183282b58e" title="Create a copy of a string. " alt="" coords="237,360,328,387"/>
+<area shape="rect" id="node10" href="$d5/d97/nomos_2agent_2util_8c.html#a927548efd0863632e6ef0772e6d7fc8e" title="Raise an assert. " alt="" coords="251,411,314,437"/>
+<area shape="rect" id="node11" href="$d7/d40/list_8c.html#a5fec5dbcf5422eb7641a577438dda2d0" title="get an item from the itemlist. If the item is not in the itemlist, then add it to the itemlist..." alt="" coords="237,461,329,488"/>
+<area shape="rect" id="node12" href="$dc/d7b/licenses_8c.html#acf0a27e6141924ec6d3d46d8614c9744" title="Rescan original content for the licenses already found. " alt="" coords="184,513,381,554"/>
+<area shape="rect" id="node13" href="$d5/d97/nomos_2agent_2util_8c.html#a24d54fafa423904913b8a50f4265b414" title="munmapFile" alt="" coords="233,579,333,605"/>
+<area shape="rect" id="node14" href="$d7/d40/list_8c.html#a50a7d85803c1b3d273421722c07587a3" title="print the passed in list " alt="" coords="243,629,322,656"/>
+<area shape="rect" id="node17" href="$d7/d40/list_8c.html#abb9ab172cb48e362f1fef4871054449b" title="return a pointer to listitem, returns a NULL_ITEM when no more items to return. " alt="" coords="241,680,324,707"/>
+<area shape="rect" id="node18" href="$d7/d40/list_8c.html#aea7636c16838654137711f946dbedff2" title="Destroy list_t. " alt="" coords="246,731,319,757"/>
+<area shape="rect" id="node19" href="$d7/d40/list_8c.html#ae72865f148be2b7e823e3ae75e536c2f" title="Sort the list as per the sortType passed. " alt="" coords="249,781,316,808"/>
+<area shape="rect" id="node20" href="$dc/d7b/licenses_8c.html#ac6c3d553b0950370f29b8f5d532f0496" title="Construct a &#39;computed license&#39;. Wherever possible, leave off the entries for None and LikelyNot; thos..." alt="" coords="198,832,367,859"/>
+<area shape="rect" id="node21" href="$d7/ded/json__writer_8h.html#a03d0e23137567e725ead273b60abc242" title="Write the scan output as a JSON. " alt="" coords="243,883,322,909"/>
+<area shape="rect" id="node22" href="$dc/d7b/licenses_8c.html#a02e7f33ebdc1560f69a71351e38b503e" title="Print highlight info about matches. " alt="" coords="217,933,348,960"/>
+<area shape="rect" id="node15" href="$d0/da5/libfossagent_8c.html#a4cab43818321714ab944d8323575a401" title="Get the maximum group privilege. " alt="" coords="429,604,480,631"/>
+<area shape="rect" id="node16" href="$dd/d34/nomos_8h.html#aa4aa3468fba5dfb2a0ad91ce91faec83" title="Close connections and exit. " alt="" coords="432,655,477,681"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="bucketpool_struct" name="bucketpool_struct">
+<area shape="rect" id="node2" href="$d7/dde/structbucketdef__struct.html" title="{bucketdef_struct\n|+ bucket_pk\l+ bucket_name\l+ bucket_type\l+ regex\l+ compRegex\l+ dataFilename\l+ match_only\l+ match_every\l+ stopon\l+ applies_to\l+ nomos_agent_pk\l+ bucket_agent_pk\l+ bucketpool_pk\l+ uploadtree_tablename\l|}" alt="" coords="5,233,188,501"/>
+<area shape="rect" id="node3" href="$d0/dca/structregex__file__struct.html" title="REGEX&#45;FILE bucket type. " alt="" coords="33,5,160,171"/>
+</map>

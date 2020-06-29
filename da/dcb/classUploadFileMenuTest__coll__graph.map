@@ -1,0 +1,4 @@
+<map id="UploadFileMenuTest" name="UploadFileMenuTest">
+<area shape="rect" id="node2" href="$d5/d51/classfossologyTestCase.html" title="{fossologyTestCase\n|+ $mybrowser\l+ $debug\l+ $webProxy\l|+ addUser()\l+ checkEmailNotification()\l+ createFolder()\l+ deleteFolder()\l+ deleteUpload()\l+ deleteUser()\l+ editFolder()\l+ editUser()\l+ moveUpload()\l+ mvFolder()\land 10 more...\l# setUserFields()\l}" alt="" coords="5,549,196,817"/>
+<area shape="rect" id="node3" href="$d5/dcd/classfossologyTest.html" title="{fossologyTest\n|+ $mybrowser\l+ $cookie\l+ $debug\l# $User\l&#45; $Url\l&#45; $Password\l|+ getBrowser()\l+ getCookie()\l+ getPassword()\l+ getUser()\l+ setBrowser()\l+ setmyCookie()\l+ setPassword()\l+ setUser()\l+ pmm()\l+ plt()\land 9 more...\l# _browser()\l# getSelectAttr()\l# setSelectAttr()\l&#45; _repoDBlogin()\l&#45; __chopPage()\l}" alt="" coords="35,131,167,501"/>
+</map>

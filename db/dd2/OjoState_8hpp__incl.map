@@ -1,0 +1,19 @@
+<map id="src/ojo/agent/OjoState.hpp" name="src/ojo/agent/OjoState.hpp">
+<area shape="rect" id="node2" href="$d2/d1f/libfossdbmanagerclass_8hpp.html" title="DB wrapper for agents. " alt="" coords="5,304,201,331"/>
+<area shape="rect" id="node13" href="$df/d30/OjoAgent_8hpp.html" title="OjoAgent.hpp" alt="" coords="405,80,514,107"/>
+<area shape="rect" id="node3" href="$d4/d4c/libfossdbmanager_8h_source.html" title="libfossdbmanager.h" alt="" coords="214,453,361,480"/>
+<area shape="rect" id="node10" href="$d6/d11/libfossdbQueryResult_8hpp.html" title="Wrapper for DB result. " alt="" coords="196,379,379,405"/>
+<area shape="rect" id="node11" href="$d6/dc0/uniquePtr_8hpp.html" title="Defined which unique to be used by creating new unptr namespace. " alt="" coords="385,453,496,480"/>
+<area shape="rect" id="node16" href="$dd/d96/OjosDatabaseHandler_8hpp.html" title="Database handler for OJO. " alt="" coords="442,155,631,181"/>
+<area shape="rect" id="node23" href="$da/dec/ojomatch_8hpp_source.html" title="ojomatch.hpp" alt="" coords="1005,229,1116,256"/>
+<area shape="rect" id="node48" href="$d5/d88/ojoregex_8hpp.html" title="ojoregex.hpp" alt="" coords="707,155,812,181"/>
+<area shape="rect" id="node20" href="$d3/d08/libfossUtils_8hpp.html" title="General utility functions for CPP. " alt="" coords="600,229,719,256"/>
+<area shape="rect" id="node22" href="$d9/d80/libfossAgentDatabaseHandler_8hpp.html" title="DB utility functions for agents. " alt="" coords="743,229,981,256"/>
+<area shape="rect" id="node24" href="$d8/d3b/libfossology_8h.html" title="The main FOSSology C library. " alt="" coords="1101,304,1207,331"/>
+<area shape="rect" id="node26" href="$dc/d81/libfossscheduler_8h_source.html" title="libfossscheduler.h" alt="" coords="847,379,981,405"/>
+<area shape="rect" id="node27" href="$dc/df8/fossconfig_8h.html" title="FOSSology library to read config file. " alt="" coords="521,453,619,480"/>
+<area shape="rect" id="node33" href="$d1/dd3/libfossrepo_8h_source.html" title="libfossrepo.h" alt="" coords="1457,379,1560,405"/>
+<area shape="rect" id="node44" href="$d2/d5f/libfossdb_8h_source.html" title="libfossdb.h" alt="" coords="1235,379,1326,405"/>
+<area shape="rect" id="node45" href="$d8/d2f/libfossagent_8h_source.html" title="libfossagent.h" alt="" coords="1005,379,1116,405"/>
+<area shape="rect" id="node47" href="$d5/da6/sqlCopy_8h_source.html" title="sqlCopy.h" alt="" coords="1585,379,1667,405"/>
+</map>

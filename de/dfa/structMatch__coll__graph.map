@@ -1,0 +1,5 @@
+<map id="Match" name="Match">
+<area shape="rect" id="node2" href="$dd/d45/structDiffResult.html" title="{DiffResult\n|+ matched\l+ added\l+ removed\l+ matchedInfo\l+ rank\l+ percentual\l|}" alt="" coords="5,5,123,156"/>
+<area shape="rect" id="node3" href="$dd/d6b/structDiffPoint.html" title="{DiffPoint\n|+ start\l+ length\l|}" alt="" coords="147,35,224,127"/>
+<area shape="rect" id="node4" href="$d6/d58/structLicense.html" title="{License\n|+ refId\l+ shortname\l+ tokens\l|}" alt="" coords="248,27,355,134"/>
+</map>

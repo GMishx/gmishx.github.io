@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$db/d5a/classFossology_1_1UI_1_1Api_1_1Controllers_1_1RestController.html" title="Base controller for REST calls. " alt="" coords="5,267,204,308"/>
+<area shape="rect" id="node2" href="$d1/db1/classFossology_1_1UI_1_1Api_1_1Controllers_1_1AuthController.html" title="Controller for Auth requests. " alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$d0/d1d/classFossology_1_1UI_1_1Api_1_1Controllers_1_1BadRequestController.html" title="Fossology\\UI\\Api\\Controllers\l\\BadRequestController" alt="" coords="252,71,451,112"/>
+<area shape="rect" id="node4" href="$d3/d80/classFossology_1_1UI_1_1Api_1_1Controllers_1_1FolderController.html" title="Controller for Folder model. " alt="" coords="252,136,451,177"/>
+<area shape="rect" id="node5" href="$de/d20/classFossology_1_1UI_1_1Api_1_1Controllers_1_1JobController.html" title="Controller for Job model. " alt="" coords="252,201,451,243"/>
+<area shape="rect" id="node6" href="$d4/d1a/classFossology_1_1UI_1_1Api_1_1Controllers_1_1ReportController.html" title="Controller for report path. " alt="" coords="252,267,451,308"/>
+<area shape="rect" id="node7" href="$d6/d88/classFossology_1_1UI_1_1Api_1_1Controllers_1_1SearchController.html" title="Controller for Search model. " alt="" coords="252,332,451,373"/>
+<area shape="rect" id="node8" href="$d0/d43/classFossology_1_1UI_1_1Api_1_1Controllers_1_1UploadController.html" title="Controller for Upload model. " alt="" coords="252,397,451,439"/>
+<area shape="rect" id="node9" href="$d0/d10/classFossology_1_1UI_1_1Api_1_1Controllers_1_1UserController.html" title="Controller for User model. " alt="" coords="252,463,451,504"/>
+<area shape="rect" id="node10" href="$de/d6c/classFossology_1_1UI_1_1Api_1_1Controllers_1_1VersionController.html" title="Controller for REST API version. " alt="" coords="252,528,451,569"/>
+</map>

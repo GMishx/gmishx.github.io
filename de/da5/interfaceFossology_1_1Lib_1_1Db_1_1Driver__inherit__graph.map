@@ -1,0 +1,4 @@
+<map id="Fossology\Lib\Db\Driver" name="Fossology\Lib\Db\Driver">
+<area shape="rect" id="node2" href="$d9/d71/classFossology_1_1Lib_1_1Db_1_1Driver_1_1Postgres.html" title="{Fossology\\Lib\\Db\\Driver\l\\Postgres\n|&#45; $dbConnection\l|+ __construct()\l+ prepare()\l+ execute()\l+ query()\l+ isConnected()\l+ getLastError()\l+ freeResult()\l+ fetchArray()\l+ fetchAll()\l+ begin()\land 8 more...\l&#45; identifierHash()\l}" alt="" coords="5,285,176,538"/>
+<area shape="rect" id="node3" href="$d9/d03/classFossology_1_1Lib_1_1Db_1_1Driver_1_1SqliteE.html" title="{Fossology\\Lib\\Db\\Driver\l\\SqliteE\n|&#45; $dbConnection\l&#45; $preparedStmt\l&#45; $varPrefix\l|+ __construct()\l+ prepare()\l+ execute()\l+ query()\l+ isConnected()\l+ getLastError()\l+ freeResult()\l+ fetchArray()\l+ fetchAll()\l+ begin()\land 8 more...\l}" alt="" coords="200,277,371,545"/>
+</map>

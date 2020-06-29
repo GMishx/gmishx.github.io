@@ -1,0 +1,3 @@
+<map id="Fossology\Lib\Report\LicenseClearedGetter" name="Fossology\Lib\Report\LicenseClearedGetter">
+<area shape="rect" id="node2" href="$d1/da4/classFossology_1_1Lib_1_1Report_1_1ClearedGetterCommon.html" title="{Fossology\\Lib\\Report\l\\ClearedGetterCommon\n|# $uploadDao\l# $treeDao\l&#45; $fileNameCache\l&#45; $userId\l&#45; $groupId\l&#45; $uploadId\l&#45; $groupBy\l|+ __construct()\l+ getCliArgs()\l+ getUploadId()\l+ getUserId()\l+ getGroupId()\l+ getCleared()\l+ getLicenseHistogramForReport()\l+ cJson()\l+ cJsonHist()\l# changeTreeIdsToPaths()\l# groupStatements()\l# getStatements()\l}" alt="" coords="6,5,250,347"/>
+</map>

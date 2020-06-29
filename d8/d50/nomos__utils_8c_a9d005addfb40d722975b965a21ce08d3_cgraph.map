@@ -1,0 +1,4 @@
+<map id="getFileLists" name="getFileLists">
+<area shape="rect" id="node2" href="$d7/d40/list_8c.html#a80c001fc73cc924f746b276a67e30b90" title="intialize a list, if the list is not empty, empty it (initialize it to zero&#39;s). " alt="" coords="162,5,221,32"/>
+<area shape="rect" id="node3" href="$d7/d40/list_8c.html#a5fec5dbcf5422eb7641a577438dda2d0" title="get an item from the itemlist. If the item is not in the itemlist, then add it to the itemlist..." alt="" coords="145,56,237,83"/>
+</map>

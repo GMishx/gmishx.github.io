@@ -1,0 +1,21 @@
+<map id="src/nomos/agent/parse.c" name="src/nomos/agent/parse.c">
+<area shape="rect" id="node3" href="$dd/d34/nomos_8h.html" title="Nomos header file. " alt="" coords="1098,229,1177,256"/>
+<area shape="rect" id="node42" href="$d4/d2b/parse_8h_source.html" title="parse.h" alt="" coords="1270,80,1341,107"/>
+<area shape="rect" id="node44" href="$da/d23/list_8h_source.html" title="list.h" alt="" coords="1346,155,1398,181"/>
+<area shape="rect" id="node45" href="$d8/d3c/util_8h_source.html" title="util.h" alt="" coords="2085,229,2139,256"/>
+<area shape="rect" id="node46" href="$da/d32/nomos__regex_8h_source.html" title="nomos_regex.h" alt="" coords="1682,155,1803,181"/>
+<area shape="rect" id="node48" href="$d7/d31/nomos__utils_8h_source.html" title="nomos_utils.h" alt="" coords="1771,80,1882,107"/>
+<area shape="rect" id="node24" href="$d0/d65/nomos__gap_8h_source.html" title="nomos_gap.h" alt="" coords="27,379,136,405"/>
+<area shape="rect" id="node28" href="$d7/ded/json__writer_8h.html" title="Handle JSON outputs. " alt="" coords="1517,304,1619,331"/>
+<area shape="rect" id="node29" href="$d8/d3b/libfossology_8h.html" title="The main FOSSology C library. " alt="" coords="1256,304,1363,331"/>
+<area shape="rect" id="node32" href="$d4/d4c/libfossdbmanager_8h_source.html" title="libfossdbmanager.h" alt="" coords="1951,453,2097,480"/>
+<area shape="rect" id="node30" href="$dc/d81/libfossscheduler_8h_source.html" title="libfossscheduler.h" alt="" coords="1651,379,1786,405"/>
+<area shape="rect" id="node31" href="$dc/df8/fossconfig_8h.html" title="FOSSology library to read config file. " alt="" coords="907,453,1005,480"/>
+<area shape="rect" id="node37" href="$d1/dd3/libfossrepo_8h_source.html" title="libfossrepo.h" alt="" coords="815,379,918,405"/>
+<area shape="rect" id="node39" href="$d2/d5f/libfossdb_8h_source.html" title="libfossdb.h" alt="" coords="1096,379,1187,405"/>
+<area shape="rect" id="node40" href="$d8/d2f/libfossagent_8h_source.html" title="libfossagent.h" alt="" coords="1963,379,2074,405"/>
+<area shape="rect" id="node41" href="$d5/da6/sqlCopy_8h_source.html" title="sqlCopy.h" alt="" coords="1268,379,1351,405"/>
+<area shape="rect" id="node43" href="$d6/df5/doctorBuffer__utils_8h_source.html" title="doctorBuffer_utils.h" alt="" coords="1175,155,1321,181"/>
+<area shape="rect" id="node49" href="$d4/de5/licenses_8h_source.html" title="licenses.h" alt="" coords="1879,155,1964,181"/>
+<area shape="rect" id="node50" href="$da/d42/process_8h_source.html" title="process.h" alt="" coords="1989,155,2073,181"/>
+</map>

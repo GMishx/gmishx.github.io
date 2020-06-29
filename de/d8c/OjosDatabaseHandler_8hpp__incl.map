@@ -1,0 +1,16 @@
+<map id="src/ojo/agent/OjosDatabaseHandler.hpp" name="src/ojo/agent/OjosDatabaseHandler.hpp">
+<area shape="rect" id="node6" href="$d3/d08/libfossUtils_8hpp.html" title="General utility functions for CPP. " alt="" coords="259,95,377,121"/>
+<area shape="rect" id="node8" href="$d9/d80/libfossAgentDatabaseHandler_8hpp.html" title="DB utility functions for agents. " alt="" coords="607,95,845,121"/>
+<area shape="rect" id="node10" href="$d2/d1f/libfossdbmanagerclass_8hpp.html" title="DB wrapper for agents. " alt="" coords="743,169,939,196"/>
+<area shape="rect" id="node19" href="$da/dec/ojomatch_8hpp_source.html" title="ojomatch.hpp" alt="" coords="556,169,667,196"/>
+<area shape="rect" id="node20" href="$d8/d3b/libfossology_8h.html" title="The main FOSSology C library. " alt="" coords="1722,169,1829,196"/>
+<area shape="rect" id="node11" href="$d4/d4c/libfossdbmanager_8h_source.html" title="libfossdbmanager.h" alt="" coords="990,319,1137,345"/>
+<area shape="rect" id="node16" href="$d6/d11/libfossdbQueryResult_8hpp.html" title="Wrapper for DB result. " alt="" coords="888,244,1071,271"/>
+<area shape="rect" id="node17" href="$d6/dc0/uniquePtr_8hpp.html" title="Defined which unique to be used by creating new unptr namespace. " alt="" coords="855,319,965,345"/>
+<area shape="rect" id="node22" href="$dc/d81/libfossscheduler_8h_source.html" title="libfossscheduler.h" alt="" coords="1603,244,1737,271"/>
+<area shape="rect" id="node23" href="$dc/df8/fossconfig_8h.html" title="FOSSology library to read config file. " alt="" coords="1515,319,1614,345"/>
+<area shape="rect" id="node29" href="$d1/dd3/libfossrepo_8h_source.html" title="libfossrepo.h" alt="" coords="2336,244,2439,271"/>
+<area shape="rect" id="node40" href="$d2/d5f/libfossdb_8h_source.html" title="libfossdb.h" alt="" coords="2031,244,2122,271"/>
+<area shape="rect" id="node41" href="$d8/d2f/libfossagent_8h_source.html" title="libfossagent.h" alt="" coords="1320,244,1431,271"/>
+<area shape="rect" id="node43" href="$d5/da6/sqlCopy_8h_source.html" title="sqlCopy.h" alt="" coords="1895,244,1978,271"/>
+</map>

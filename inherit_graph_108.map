@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d3/db8/classFossology_1_1Lib_1_1Exception.html" title="Fossology exception. " alt="" coords="137,45,311,71"/>
+<area shape="rect" id="node5" href="$d7/d5a/classFunctional_1_1DefineError.html" title="Functional.DefineError" alt="" coords="143,95,305,122"/>
+<area shape="rect" id="node6" href="$d8/ddb/classFunctional_1_1TimeoutError.html" title="Functional.TimeoutError" alt="" coords="137,146,311,173"/>
+<area shape="rect" id="node3" href="$d8/d39/classFossology_1_1Lib_1_1Exceptions_1_1DuplicateTokenKeyException.html" title="Exception when a token has duplicate key for same user. " alt="" coords="367,5,573,47"/>
+<area shape="rect" id="node4" href="$d3/dfe/classFossology_1_1Lib_1_1Exceptions_1_1DuplicateTokenNameException.html" title="Exception when a token has duplicate name for same user. " alt="" coords="359,71,581,112"/>
+</map>

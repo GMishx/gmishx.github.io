@@ -1,0 +1,19 @@
+<map id="src/nomos/agent/nomos.c" name="src/nomos/agent/nomos.c">
+<area shape="rect" id="node2" href="$dd/d34/nomos_8h.html" title="Nomos header file. " alt="" coords="1183,229,1262,256"/>
+<area shape="rect" id="node44" href="$d7/d31/nomos__utils_8h_source.html" title="nomos_utils.h" alt="" coords="1855,80,1966,107"/>
+<area shape="rect" id="node24" href="$d0/d65/nomos__gap_8h_source.html" title="nomos_gap.h" alt="" coords="5,379,115,405"/>
+<area shape="rect" id="node28" href="$d7/ded/json__writer_8h.html" title="Handle JSON outputs. " alt="" coords="1416,304,1517,331"/>
+<area shape="rect" id="node29" href="$d8/d3b/libfossology_8h.html" title="The main FOSSology C library. " alt="" coords="1541,304,1648,331"/>
+<area shape="rect" id="node32" href="$d4/d4c/libfossdbmanager_8h_source.html" title="libfossdbmanager.h" alt="" coords="2060,453,2207,480"/>
+<area shape="rect" id="node30" href="$dc/d81/libfossscheduler_8h_source.html" title="libfossscheduler.h" alt="" coords="1763,379,1898,405"/>
+<area shape="rect" id="node31" href="$dc/df8/fossconfig_8h.html" title="FOSSology library to read config file. " alt="" coords="1068,453,1167,480"/>
+<area shape="rect" id="node37" href="$d1/dd3/libfossrepo_8h_source.html" title="libfossrepo.h" alt="" coords="958,379,1061,405"/>
+<area shape="rect" id="node41" href="$d2/d5f/libfossdb_8h_source.html" title="libfossdb.h" alt="" coords="1547,379,1637,405"/>
+<area shape="rect" id="node42" href="$d8/d2f/libfossagent_8h_source.html" title="libfossagent.h" alt="" coords="2075,379,2186,405"/>
+<area shape="rect" id="node43" href="$d5/da6/sqlCopy_8h_source.html" title="sqlCopy.h" alt="" coords="1339,379,1421,405"/>
+<area shape="rect" id="node45" href="$d8/d3c/util_8h_source.html" title="util.h" alt="" coords="2199,229,2252,256"/>
+<area shape="rect" id="node46" href="$da/d23/list_8h_source.html" title="list.h" alt="" coords="1683,155,1735,181"/>
+<area shape="rect" id="node47" href="$d4/de5/licenses_8h_source.html" title="licenses.h" alt="" coords="1813,155,1899,181"/>
+<area shape="rect" id="node48" href="$da/d42/process_8h_source.html" title="process.h" alt="" coords="1923,155,2007,181"/>
+<area shape="rect" id="node49" href="$da/d32/nomos__regex_8h_source.html" title="nomos_regex.h" alt="" coords="2058,155,2179,181"/>
+</map>

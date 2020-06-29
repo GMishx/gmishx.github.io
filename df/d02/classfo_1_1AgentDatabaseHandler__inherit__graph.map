@@ -1,0 +1,5 @@
+<map id="fo::AgentDatabaseHandler" name="fo::AgentDatabaseHandler">
+<area shape="rect" id="node2" href="$d2/d40/classCopyrightDatabaseHandler.html" title="Manages database related requests for agent. " alt="" coords="5,277,225,531"/>
+<area shape="rect" id="node3" href="$d7/dd8/classNinkaDatabaseHandler.html" title="{NinkaDatabaseHandler\n|&#45; licenseRefCache\l|+ NinkaDatabaseHandler()\l+ NinkaDatabaseHandler()\l+ spawn()\l+ queryFileIdsForUpload()\l+ saveLicenseMatch()\l+ insertOrCacheLicenseIdForName()\l+ getCachedLicenseIdForName()\l&#45; selectOrInsertLicenseIdForName()\l}" alt="" coords="250,314,506,494"/>
+<area shape="rect" id="node4" href="$d3/df9/classOjosDatabaseHandler.html" title="{OjosDatabaseHandler\n|&#45; licenseRefCache\l|+ OjosDatabaseHandler()\l+ OjosDatabaseHandler()\l+ spawn()\l+ queryFileIdsForUpload()\l+ queryFileIdsForScan()\l+ saveLicenseToDatabase()\l+ insertNoResultInDatabase()\l+ saveHighlightToDatabase()\l+ getLicenseIdForName()\l&#45; getCachedLicenseIdForName()\l&#45; selectOrInsertLicenseIdForName()\l}" alt="" coords="530,292,778,516"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="OjoState" name="OjoState">
+<area shape="rect" id="node2" href="$df/da5/classOjoAgent.html" title="{OjoAgent\n|&#45; regLicenseList\l&#45; regLicenseName\l&#45; regDualLicense\l|+ OjoAgent()\l+ processFile()\l+ processFile()\l&#45; scanString()\l&#45; filterMatches()\l&#45; findLicenseId()\l}" alt="" coords="5,5,144,185"/>
+<area shape="rect" id="node3" href="$dd/d23/classOjoCliOptions.html" title="Store the options sent through the CLI. " alt="" coords="169,13,389,178"/>
+</map>

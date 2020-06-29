@@ -1,0 +1,12 @@
+<map id="CommonCliTest" name="CommonCliTest">
+<area shape="rect" id="node3" href="$d7/d4c/classNomosFunTest.html" title="Runs regression test on NOMOS. " alt="" coords="5,337,144,429"/>
+<area shape="rect" id="node4" href="$db/dd5/classOneShotafferoTest.html" title="Perform a one&#45;shot license analysis on a affero 2 and 3 licenses. " alt="" coords="169,337,341,429"/>
+<area shape="rect" id="node5" href="$d2/dc6/classOneShotbsdTest.html" title="Perform a one&#45;shot license analysis on a file (include bsd license) " alt="" coords="365,337,557,429"/>
+<area shape="rect" id="node6" href="$d0/d1c/classOneShotemptyTest.html" title="Run a one&#45;shot license test on an empty file. " alt="" coords="582,344,751,421"/>
+<area shape="rect" id="node7" href="$d0/dd9/classOneShotgpl3Test.html" title="Perform a one&#45;shot analysis on GPL_v3 license. " alt="" coords="776,344,939,421"/>
+<area shape="rect" id="node8" href="$d8/d6f/classOneShotgplv21Test.html" title="Run one&#45;shot license analysis on LGPL_v2.1 license. " alt="" coords="963,329,1133,436"/>
+<area shape="rect" id="node9" href="$dd/d21/classOneShotJSON.html" title="Run one&#45;shot license analysis on JSON license. " alt="" coords="1158,344,1325,421"/>
+<area shape="rect" id="node10" href="$d0/dca/classOneShotMultiFileTest.html" title="Perform a one&#45;shot license analysis on multiple files. " alt="" coords="1349,337,1529,429"/>
+<area shape="rect" id="node11" href="$db/d00/classOneShotnoneTest.html" title="Perform a one&#45;shot license analysis on a file with no license. " alt="" coords="1553,344,1713,421"/>
+<area shape="rect" id="node12" href="$da/da4/classOneShotOracleBerkeleyDB.html" title="Perform a one&#45;shot license analysis on Oracle&#45;Berkeley&#45;DB and sleepycat license. " alt="" coords="1738,344,1995,421"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="Fossology\Lib\Db\ModernDbManager" name="Fossology\Lib\Db\ModernDbManager">
+<area shape="rect" id="node2" href="$de/dcb/classFossology_1_1Lib_1_1Db_1_1DbManager.html" title="{Fossology\\Lib\\Db\\DbManager\n|# $dbDriver\l# $preparedStatements\l# $logger\l# $cumulatedTime\l# $queryCount\l&#45; $transactionDepth\l|+ __construct()\l+ setDriver()\l+ getDriver()\l+ begin()\l+ commit()\l+ rollback()\l+ prepare()\l+ insertPreparedAndReturn()\l+ execute()\l+ getSingleRow()\land 14 more...\l# checkResult()\l# formatMilliseconds()\l# collectStatistics()\l&#45; cleanupParamsArray()\l}" alt="" coords="5,5,212,361"/>
+</map>

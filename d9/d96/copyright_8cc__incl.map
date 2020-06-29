@@ -1,0 +1,28 @@
+<map id="src/copyright/agent/copyright.cc" name="src/copyright/agent/copyright.cc">
+<area shape="rect" id="node5" href="$d2/d05/copyright_8hpp_source.html" title="copyright.hpp" alt="" coords="609,95,719,121"/>
+<area shape="rect" id="node7" href="$de/d6c/copyrightUtils_8hpp_source.html" title="copyrightUtils.hpp" alt="" coords="1057,251,1194,278"/>
+<area shape="rect" id="node33" href="$d8/d2f/libfossagent_8h_source.html" title="libfossagent.h" alt="" coords="194,707,305,733"/>
+<area shape="rect" id="node48" href="$d0/d26/copyright_2agent_2directoryScan_8hpp_source.html" title="directoryScan.hpp" alt="" coords="595,169,733,196"/>
+<area shape="rect" id="node8" href="$d7/d0e/identity_8hpp_source.html" title="identity.hpp" alt="" coords="1327,333,1422,360"/>
+<area shape="rect" id="node12" href="$d9/db0/scanners_8hpp.html" title="Utilities to help scanners. " alt="" coords="830,557,938,584"/>
+<area shape="rect" id="node14" href="$d0/d8c/regscan_8hpp_source.html" title="regscan.hpp" alt="" coords="745,408,847,435"/>
+<area shape="rect" id="node20" href="$d8/d3b/libfossology_8h.html" title="The main FOSSology C library. " alt="" coords="424,632,531,659"/>
+<area shape="rect" id="node36" href="$d8/d72/copyscan_8hpp_source.html" title="copyscan.hpp" alt="" coords="938,408,1049,435"/>
+<area shape="rect" id="node37" href="$df/d6f/copyrightState_8hpp_source.html" title="copyrightState.hpp" alt="" coords="1108,333,1252,360"/>
+<area shape="rect" id="node43" href="$df/da2/database_8hpp_source.html" title="database.hpp" alt="" coords="1429,408,1539,435"/>
+<area shape="rect" id="node45" href="$da/dd1/cleanEntries_8hpp_source.html" title="cleanEntries.hpp" alt="" coords="1175,483,1303,509"/>
+<area shape="rect" id="node15" href="$d6/d6f/regex_8hpp_source.html" title="regex.hpp" alt="" coords="962,557,1049,584"/>
+<area shape="rect" id="node17" href="$d6/d3f/regexConfProvider_8hpp_source.html" title="regexConfProvider.hpp" alt="" coords="582,483,749,509"/>
+<area shape="rect" id="node19" href="$d8/df6/regexConfParser_8hpp_source.html" title="regexConfParser.hpp" alt="" coords="448,557,603,584"/>
+<area shape="rect" id="node21" href="$dc/d81/libfossscheduler_8h_source.html" title="libfossscheduler.h" alt="" coords="729,707,863,733"/>
+<area shape="rect" id="node22" href="$dc/df8/fossconfig_8h.html" title="FOSSology library to read config file. " alt="" coords="937,781,1036,808"/>
+<area shape="rect" id="node31" href="$d1/dd3/libfossrepo_8h_source.html" title="libfossrepo.h" alt="" coords="602,707,705,733"/>
+<area shape="rect" id="node32" href="$d2/d5f/libfossdb_8h_source.html" title="libfossdb.h" alt="" coords="487,707,577,733"/>
+<area shape="rect" id="node35" href="$d5/da6/sqlCopy_8h_source.html" title="sqlCopy.h" alt="" coords="380,707,463,733"/>
+<area shape="rect" id="node24" href="$d4/d4c/libfossdbmanager_8h_source.html" title="libfossdbmanager.h" alt="" coords="1060,781,1207,808"/>
+<area shape="rect" id="node38" href="$d2/d1f/libfossdbmanagerclass_8hpp.html" title="DB wrapper for agents. " alt="" coords="1575,557,1771,584"/>
+<area shape="rect" id="node41" href="$d6/dc0/uniquePtr_8hpp.html" title="Defined which unique to be used by creating new unptr namespace. " alt="" coords="1506,707,1617,733"/>
+<area shape="rect" id="node40" href="$d6/d11/libfossdbQueryResult_8hpp.html" title="Wrapper for DB result. " alt="" coords="1582,632,1765,659"/>
+<area shape="rect" id="node44" href="$d9/d80/libfossAgentDatabaseHandler_8hpp.html" title="DB utility functions for agents. " alt="" coords="1615,483,1854,509"/>
+<area shape="rect" id="node46" href="$d3/d08/libfossUtils_8hpp.html" title="General utility functions for CPP. " alt="" coords="1175,557,1294,584"/>
+</map>

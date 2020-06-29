@@ -1,0 +1,4 @@
+<map id="scanner" name="scanner">
+<area shape="rect" id="node2" href="$dc/dd7/classhCopyrightScanner.html" title="Implementation of scanner class for copyright. " alt="" coords="5,167,175,303"/>
+<area shape="rect" id="node3" href="$d2/db7/classregexScanner.html" title="Provides a regex scanner using predefined regexs. " alt="" coords="199,160,335,311"/>
+</map>

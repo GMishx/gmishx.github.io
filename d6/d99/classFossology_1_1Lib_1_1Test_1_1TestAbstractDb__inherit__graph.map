@@ -1,0 +1,4 @@
+<map id="Fossology\Lib\Test\TestAbstractDb" name="Fossology\Lib\Test\TestAbstractDb">
+<area shape="rect" id="node2" href="$d9/d36/classFossology_1_1Lib_1_1Test_1_1TestLiteDb.html" title="{Fossology\\Lib\\Test\l\\TestLiteDb\n|&#45; $dbFileName\l&#45; $logFileName\l|+ __construct()\l+ __destruct()\l+ createPlainTables()\l# queryConverter()\l}" alt="" coords="5,343,163,494"/>
+<area shape="rect" id="node3" href="$d4/dcb/classFossology_1_1Lib_1_1Test_1_1TestPgDb.html" title="{Fossology\\Lib\\Test\l\\TestPgDb\n|&#45; $dbName\l&#45; $logFileName\l&#45; $connection\l&#45; $sys_conf\l|+ __construct()\l+ getFossSysConf()\l+ __destruct()\l+ fullDestruct()\l+ isInFossyGroup()\l+ createPlainTables()\l+ resetSequenceAsMaxOf()\l+ createSequences()\l+ createConstraints()\l+ createInheritedTables()\l+ createInheritedArsTables()\l&#45; dropAllTables()\l&#45; dropAllSequences()\l}" alt="" coords="187,263,391,575"/>
+</map>

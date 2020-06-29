@@ -1,0 +1,6 @@
+<map id="email_replace_args" name="email_replace_args">
+<area shape="rect" id="node2" href="$d2/d3c/structscheduler__t.html" title="{scheduler_t\n|+ process_name\l+ s_pid\l+ s_daemon\l+ s_startup\l+ s_pause\l+ sysconfigdir\l+ logdir\l+ logcmdline\l+ meta_agents\l+ agents\land 21 more...\l|}" alt="" coords="167,189,298,413"/>
+<area shape="rect" id="node3" href="$d2/ddc/structlog__t.html" title="{log_t\n|+ log_name\l+ pro_name\l+ pro_pid\l+ log_file\l|}" alt="" coords="41,5,144,127"/>
+<area shape="rect" id="node5" href="$d2/d68/structjob__t.html" title="The job structure. " alt="" coords="5,189,143,413"/>
+<area shape="rect" id="node4" href="$d8/d1b/structfo__conf.html" title="{fo_conf\n|+ group_map\l+ key_sets\l+ group_set\l+ n_groups\l|}" alt="" coords="188,5,299,127"/>
+</map>

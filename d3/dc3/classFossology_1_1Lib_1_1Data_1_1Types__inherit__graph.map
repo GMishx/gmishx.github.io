@@ -1,0 +1,7 @@
+<map id="Fossology\Lib\Data\Types" name="Fossology\Lib\Data\Types">
+<area shape="rect" id="node2" href="$d8/d64/classFossology_1_1Lib_1_1Data_1_1Clearing_1_1ClearingEventTypes.html" title="{Fossology\\Lib\\Data\l\\Clearing\\ClearingEventTypes\n|+ USER\l+ BULK\l+ AGENT\l+ IMPORT\l|+ __construct()\l}" alt="" coords="5,219,211,355"/>
+<area shape="rect" id="node3" href="$db/d89/classFossology_1_1Lib_1_1Data_1_1DecisionScopes.html" title="{Fossology\\Lib\\Data\l\\DecisionScopes\n|+ ITEM\l+ REPO\l+ UPLOAD\l+ PACKAGE\l|+ __construct()\l}" alt="" coords="235,219,378,355"/>
+<area shape="rect" id="node4" href="$d5/db0/classFossology_1_1Lib_1_1Data_1_1DecisionTypes.html" title="{Fossology\\Lib\\Data\l\\DecisionTypes\n|+ TO_BE_DISCUSSED\l+ DO_NOT_USE\l+ IRRELEVANT\l+ IDENTIFIED\l+ WIP\l|+ __construct()\l+ getExtendedMap()\l}" alt="" coords="403,204,565,369"/>
+<area shape="rect" id="node5" href="$d1/d08/classFossology_1_1Lib_1_1Data_1_1JobStatus.html" title="{Fossology\\Lib\\Data\l\\JobStatus\n|+ RUNNING\l+ SUCCESS\l+ FAILED\l|+ __construct()\l}" alt="" coords="590,226,733,347"/>
+<area shape="rect" id="node6" href="$d4/d28/classFossology_1_1Lib_1_1Data_1_1UploadStatus.html" title="{Fossology\\Lib\\Data\l\\UploadStatus\n|+ OPEN\l+ IN_PROGRESS\l+ CLOSED\l+ REJECTED\l|+ __construct()\l}" alt="" coords="757,219,899,355"/>
+</map>

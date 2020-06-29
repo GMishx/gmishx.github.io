@@ -1,0 +1,18 @@
+<map id="processFile" name="processFile">
+<area shape="rect" id="node2" href="$d5/d97/nomos_2agent_2util_8c.html#a429d79b3d01a4a1e33d078859761bfae" title="Check if an inode is a file. " alt="" coords="188,5,245,32"/>
+<area shape="rect" id="node3" href="$d8/d50/nomos__utils_8c.html#ad9f10c538fc51f4906d90e08a83d15ba" title="Close connections and exit. " alt="" coords="194,56,239,83"/>
+<area shape="rect" id="node4" href="$d8/d50/nomos__utils_8c.html#a9d005addfb40d722975b965a21ce08d3" title="Initialize the lists: regular&#45;files list cur.regfList and buffer&#45;offset list cur.offList. " alt="" coords="171,157,263,184"/>
+<area shape="rect" id="node5" href="$d7/d40/list_8c.html#a80c001fc73cc924f746b276a67e30b90" title="intialize a list, if the list is not empty, empty it (initialize it to zero&#39;s). " alt="" coords="400,107,459,133"/>
+<area shape="rect" id="node7" href="$db/db4/nomos_2agent_2process_8c.html#a547b48ec4170d9d979c86cdfefa87426" title="processRawSource" alt="" coords="145,208,288,235"/>
+<area shape="rect" id="node6" href="$d7/d40/list_8c.html#a5fec5dbcf5422eb7641a577438dda2d0" title="get an item from the itemlist. If the item is not in the itemlist, then add it to the itemlist..." alt="" coords="598,157,690,184"/>
+<area shape="rect" id="node8" href="$d7/d40/list_8c.html#a50a7d85803c1b3d273421722c07587a3" title="print the passed in list " alt="" coords="605,208,683,235"/>
+<area shape="rect" id="node11" href="$db/db4/nomos_2agent_2process_8c.html#aade541b1ed8b56d3e8e89a87464029fd" title="processNonPackagedFiles" alt="" coords="336,284,523,311"/>
+<area shape="rect" id="node9" href="$d0/da5/libfossagent_8c.html#a4cab43818321714ab944d8323575a401" title="Get the maximum group privilege. " alt="" coords="789,233,840,260"/>
+<area shape="rect" id="node10" href="$dd/d34/nomos_8h.html#aa4aa3468fba5dfb2a0ad91ce91faec83" title="Close connections and exit. " alt="" coords="792,183,837,209"/>
+<area shape="rect" id="node12" href="$db/db4/nomos_2agent_2process_8c.html#abdb43e111df95dcb97b0f636615c0587" title="Process a list of regular files. " alt="" coords="571,309,717,336"/>
+<area shape="rect" id="node14" href="$df/d20/pkgConfig_8php.html#aba2ceda75653375bee97cfab3ad5fd24" title="start the application Assumes application is restartable via /etc/init.d/&lt;script&gt;. The application passed in should match the script name in /etc/init.d " alt="" coords="618,360,670,387"/>
+<area shape="rect" id="node15" href="$d5/d97/nomos_2agent_2util_8c.html#a1a8f00080afc71d99c6d00f50e01cdbe" title="Find Begin of Line in a string. " alt="" coords="611,411,677,437"/>
+<area shape="rect" id="node16" href="$d5/d97/nomos_2agent_2util_8c.html#ad7d08dddc64a2e1b8cda6dbe76b465fa" title="Find first ROL in a string. " alt="" coords="612,461,676,488"/>
+<area shape="rect" id="node17" href="$d5/d97/nomos_2agent_2util_8c.html#a927548efd0863632e6ef0772e6d7fc8e" title="Raise an assert. " alt="" coords="613,259,675,285"/>
+<area shape="rect" id="node13" href="$dc/d7b/licenses_8c.html#a6a9fae7885d4c21dd2ed454747694e21" title="scan the list for a license(s) " alt="" coords="765,309,864,336"/>
+</map>

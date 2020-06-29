@@ -1,0 +1,9 @@
+<map id="agent_spawn_args" name="agent_spawn_args">
+<area shape="rect" id="node2" href="$d2/d3c/structscheduler__t.html" title="{scheduler_t\n|+ process_name\l+ s_pid\l+ s_daemon\l+ s_startup\l+ s_pause\l+ sysconfigdir\l+ logdir\l+ logcmdline\l+ meta_agents\l+ agents\land 21 more...\l|}" alt="" coords="5,189,136,413"/>
+<area shape="rect" id="node3" href="$d2/ddc/structlog__t.html" title="{log_t\n|+ log_name\l+ pro_name\l+ pro_pid\l+ log_file\l|}" alt="" coords="189,5,291,127"/>
+<area shape="rect" id="node6" href="$d2/d68/structjob__t.html" title="The job structure. " alt="" coords="441,189,578,413"/>
+<area shape="rect" id="node4" href="$d8/d1b/structfo__conf.html" title="{fo_conf\n|+ group_map\l+ key_sets\l+ group_set\l+ n_groups\l|}" alt="" coords="15,5,126,127"/>
+<area shape="rect" id="node5" href="$df/d1d/structagent__t.html" title="{agent_t\n|+ status\l+ thread\l+ check_in\l+ n_updates\l+ pid\l+ from_parent\l+ to_child\l+ from_child\l+ to_parent\l+ read\land 7 more...\l|}" alt="" coords="255,476,371,700"/>
+<area shape="rect" id="node7" href="$d5/dcf/structhost__t.html" title="{host_t\n|+ name\l+ address\l+ agent_dir\l+ max\l+ running\l|}" alt="" coords="161,233,258,369"/>
+<area shape="rect" id="node8" href="$de/d5d/structmeta__agent__t.html" title="{meta_agent_t\n|+ name\l+ raw_cmd\l+ max_run\l+ special\l+ version_source\l+ version\l+ valid\l+ run_count\l|}" alt="" coords="283,211,416,391"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="src/lib/c/fossconfig.h" name="src/lib/c/fossconfig.h">
+<area shape="rect" id="node2" href="$d3/d59/fossconfig_8c.html" title="FOSSology library to read config file. " alt="" coords="1789,87,1939,114"/>
+<area shape="rect" id="node3" href="$dc/d81/libfossscheduler_8h_source.html" title="src/lib/c/libfossscheduler.h" alt="" coords="2013,87,2200,114"/>
+<area shape="rect" id="node4" href="$d8/d3b/libfossology_8h.html" title="The main FOSSology C library. " alt="" coords="2323,177,2482,203"/>
+<area shape="rect" id="node33" href="$d0/d95/libfossrepo_8c.html" title="Repository access functions. All internal functions are prefixed by &#39;_&#39;. " alt="" coords="2144,177,2299,203"/>
+<area shape="rect" id="node34" href="$de/d32/libfossscheduler_8c.html" title="Scheduler API for agents. " alt="" coords="1217,177,1404,203"/>
+<area shape="rect" id="node38" href="$d1/dd3/libfossrepo_8h_source.html" title="src/lib/c/libfossrepo.h" alt="" coords="2980,87,3135,114"/>
+<area shape="rect" id="node48" href="$df/d35/scheduler_2agent_2scheduler_8c.html" title="Scheduler operations. " alt="" coords="4042,169,4190,211"/>
+<area shape="rect" id="node49" href="$dc/d8a/test__fossconfig_8c.html" title="Unit tests for the fossconfig library section of libfossology. " alt="" coords="3870,80,4005,121"/>
+<area shape="rect" id="node50" href="$d3/dd1/scheduler_2agent_2scheduler_8h.html" title="Header file for the scheduler. " alt="" coords="3698,80,3846,121"/>
+<area shape="rect" id="node35" href="$d7/d91/test__fossscheduler_8c.html" title="Unit tests for the fossscheduler library section of libfossology. " alt="" coords="1706,169,1841,211"/>
+<area shape="rect" id="node36" href="$de/d32/libfossdbmanagerclass_8cc.html" title="DB wrapper for agents. " alt="" coords="1865,177,2119,203"/>
+<area shape="rect" id="node37" href="$d1/d1a/libfodbreposysconf_8c.html" title="api for db, sysconfig, repo. you can create/drop a DB/sysconfig/repo " alt="" coords="1428,177,1681,203"/>
+<area shape="rect" id="node5" href="$dd/d9a/adj2nest_8c.html" title="src/adj2nest/agent\l/adj2nest.c" alt="" coords="5,259,147,300"/>
+<area shape="rect" id="node6" href="$d2/dd6/buckets_8h_source.html" title="src/buckets/agent/buckets.h" alt="" coords="171,266,373,293"/>
+<area shape="rect" id="node7" href="$d8/df6/regexConfParser_8hpp_source.html" title="src/copyright/agent\l/regexConfParser.hpp" alt="" coords="398,259,557,300"/>
+<area shape="rect" id="node8" href="$de/d6c/copyrightUtils_8hpp_source.html" title="src/copyright/agent\l/copyrightUtils.hpp" alt="" coords="581,259,726,300"/>
+<area shape="rect" id="node9" href="$d5/dde/delagent_8h_source.html" title="src/delagent/agent\l/delagent.h" alt="" coords="750,259,893,300"/>
+<area shape="rect" id="node10" href="$d3/df9/demomod_8h_source.html" title="src/demomod/agent/demomod.h" alt="" coords="916,266,1151,293"/>
+<area shape="rect" id="node11" href="$dc/d72/wc__agent_8c.html" title="The word count agent, count the word count for one file. " alt="" coords="1174,259,1341,300"/>
+<area shape="rect" id="node12" href="$db/d90/fossconfigTest_8c.html" title="Test for fossconfig. " alt="" coords="1365,266,1539,293"/>
+<area shape="rect" id="node13" href="$d0/da5/libfossagent_8c.html" title="libfossagent.c contains general use functions for agents. " alt="" coords="1564,266,1727,293"/>
+<area shape="rect" id="node14" href="$d5/da6/sqlCopy_8h_source.html" title="src/lib/c/sqlCopy.h" alt="" coords="1751,266,1886,293"/>
+<area shape="rect" id="node15" href="$d6/d7d/reppath_8c.html" title="Display the path to the file. " alt="" coords="1910,266,2045,293"/>
+<area shape="rect" id="node16" href="$d5/de5/sqlCopyTest_8c.html" title="This is a test program for sqlCopy functions. " alt="" coords="2069,266,2229,293"/>
+<area shape="rect" id="node17" href="$d6/de9/libfossologyCPP_8hpp.html" title="The main FOSSology CPP library. " alt="" coords="2885,259,3049,300"/>
+<area shape="rect" id="node18" href="$d8/de0/OjoUtils_8hpp_source.html" title="src/ojo/agent/OjoUtils.hpp" alt="" coords="2309,348,2496,375"/>
+<area shape="rect" id="node19" href="$d3/d6b/maintagent_8h_source.html" title="src/maintagent/agent\l/maintagent.h" alt="" coords="2525,259,2685,300"/>
+<area shape="rect" id="node20" href="$d4/dbc/finder_8h_source.html" title="src/mimetype/agent\l/finder.h" alt="" coords="2710,259,2861,300"/>
+<area shape="rect" id="node21" href="$d0/d68/monk_2agent_2database_8h_source.html" title="src/monk/agent/database.h" alt="" coords="3073,266,3271,293"/>
+<area shape="rect" id="node22" href="$d1/d80/monkbulk_8c_source.html" title="src/monk/agent/monkbulk.c" alt="" coords="3459,348,3658,375"/>
+<area shape="rect" id="node23" href="$d8/d19/common_8c_source.html" title="src/monk/agent/common.c" alt="" coords="3296,266,3491,293"/>
+<area shape="rect" id="node24" href="$df/d93/utils_8hpp_source.html" title="src/ninka/agent/utils.hpp" alt="" coords="3515,266,3693,293"/>
+<area shape="rect" id="node25" href="$dd/d34/nomos_8h.html" title="Nomos header file. " alt="" coords="3718,266,3909,293"/>
+<area shape="rect" id="node26" href="$dd/d96/OjosDatabaseHandler_8hpp.html" title="Database handler for OJO. " alt="" coords="2303,259,2502,300"/>
+<area shape="rect" id="node27" href="$dc/d56/pkgagent_8h.html" title="pkgagent header " alt="" coords="3984,259,4131,300"/>
+<area shape="rect" id="node28" href="$de/d93/pkgagent_2agent__tests_2Unit_2testRun_8c_source.html" title="src/pkgagent/agent\l_tests/Unit/testRun.c" alt="" coords="4155,259,4309,300"/>
+<area shape="rect" id="node29" href="$d4/d73/regexscan-Stage1_8c.html" title="Stage 1 demonstration. " alt="" coords="4333,259,4488,300"/>
+<area shape="rect" id="node30" href="$d5/d3c/regexscan-Stage2_8c.html" title="Stage 2 demonstration. " alt="" coords="4512,259,4667,300"/>
+<area shape="rect" id="node31" href="$df/df0/regexscan-Stage3_8c.html" title="Stage 3 demonstration. " alt="" coords="4691,259,4845,300"/>
+<area shape="rect" id="node32" href="$da/dcf/regexscan_8c.html" title="Regular expression scanning agent. Tutorial sample code. " alt="" coords="4869,259,5021,300"/>
+<area shape="rect" id="node39" href="$d5/d23/repcat_8c.html" title="Cat a file from fo_repo to stdout. " alt="" coords="2667,177,2794,203"/>
+<area shape="rect" id="node40" href="$d1/da6/repcopyin_8c.html" title="Copy a file into the repository. " alt="" coords="2819,177,2965,203"/>
+<area shape="rect" id="node41" href="$d9/d46/repexist_8c.html" title="Check if a file exists. " alt="" coords="2989,177,3125,203"/>
+<area shape="rect" id="node42" href="$d2/dbb/rephost_8c.html" title="Check the host of the file. " alt="" coords="3150,177,3285,203"/>
+<area shape="rect" id="node43" href="$d6/dae/repmmapcheck_8c.html" title="Check if mmap() works. " alt="" coords="3309,177,3494,203"/>
+<area shape="rect" id="node44" href="$dc/d77/repremove_8c.html" title="Delete a repository entry. " alt="" coords="3519,177,3673,203"/>
+<area shape="rect" id="node45" href="$de/dba/repwrite_8c.html" title="Create a file. " alt="" coords="2507,177,2643,203"/>
+<area shape="rect" id="node46" href="$de/dae/fo__scheduler_8c.html" title="Main function for scheduler. " alt="" coords="3870,169,4018,211"/>
+<area shape="rect" id="node47" href="$d7/d67/job_8c.html" title="Job handling operations. " alt="" coords="3698,169,3846,211"/>
+</map>

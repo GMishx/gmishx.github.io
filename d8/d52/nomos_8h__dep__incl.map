@@ -1,0 +1,17 @@
+<map id="src/nomos/agent/nomos.h" name="src/nomos/agent/nomos.h">
+<area shape="rect" id="node2" href="$d4/d7c/doctorBuffer__utils_8c.html" title="Doctor buffer utilities for debugging. " alt="" coords="403,169,616,211"/>
+<area shape="rect" id="node3" href="$da/d23/list_8h_source.html" title="src/nomos/agent/list.h" alt="" coords="1018,87,1182,114"/>
+<area shape="rect" id="node4" href="$d7/d31/nomos__utils_8h_source.html" title="src/nomos/agent/nomos\l_utils.h" alt="" coords="691,169,869,211"/>
+<area shape="rect" id="node5" href="$d1/dbb/json__writer_8c_source.html" title="src/nomos/agent/json\l_writer.c" alt="" coords="5,259,165,300"/>
+<area shape="rect" id="node6" href="$dc/d7b/licenses_8c.html" title="utilities to scan, score and save license found data " alt="" coords="227,266,423,293"/>
+<area shape="rect" id="node7" href="$d4/dc2/nomos_8c.html" title="Main for the nomos agent. " alt="" coords="1412,266,1601,293"/>
+<area shape="rect" id="node9" href="$d8/d50/nomos__utils_8c.html" title="Utilities used by nomos. " alt="" coords="1673,259,1852,300"/>
+<area shape="rect" id="node10" href="$db/d97/parse_8c.html" title="searches for licenses " alt="" coords="679,266,860,293"/>
+<area shape="rect" id="node11" href="$d5/d97/nomos_2agent_2util_8c.html" title="misc utilites " alt="" coords="901,266,1065,293"/>
+<area shape="rect" id="node12" href="$dd/d81/test__DoctoredBuffer_8c.html" title="Test cases for Doctored buffer. " alt="" coords="1097,259,1292,300"/>
+<area shape="rect" id="node13" href="$d7/d40/list_8c.html" title="list manipulation functions and str/val Compare functions " alt="" coords="1240,177,1403,203"/>
+<area shape="rect" id="node14" href="$db/db4/nomos_2agent_2process_8c.html" title="some common functions that process the files for scanning " alt="" coords="1427,177,1621,203"/>
+<area shape="rect" id="node15" href="$df/d24/nomos_2agent__tests_2Unit_2run__tests_8c.html" title="Unit test cases for Nomos. " alt="" coords="894,169,1063,211"/>
+<area shape="rect" id="node16" href="$da/d32/nomos__regex_8h_source.html" title="src/nomos/agent/nomos\l_regex.h" alt="" coords="276,80,455,121"/>
+<area shape="rect" id="node8" href="$dd/d81/nomos__regex_8c.html" title="search using regex functions " alt="" coords="467,259,645,300"/>
+</map>

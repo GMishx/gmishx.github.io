@@ -1,0 +1,49 @@
+<map id="fossologyTest" name="fossologyTest">
+<area shape="rect" id="node3" href="$d5/d51/classfossologyTestCase.html" title="{fossologyTestCase\n|+ $mybrowser\l+ $debug\l+ $webProxy\l|+ addUser()\l+ checkEmailNotification()\l+ createFolder()\l+ deleteFolder()\l+ deleteUpload()\l+ deleteUser()\l+ editFolder()\l+ editUser()\l+ moveUpload()\l+ mvFolder()\land 10 more...\l# setUserFields()\l}" alt="" coords="4228,549,4419,817"/>
+<area shape="rect" id="node4" href="$de/d5c/classAddUserTest.html" title="{AddUserTest\n|+ $mybrowser\l&#45; $UserName\l|+ setUP()\l+ testaddUser()\l+ tearDown()\l}" alt="" coords="5,917,132,1038"/>
+<area shape="rect" id="node5" href="$d0/df5/classBasicFolderTest.html" title="{BasicFolderTest\n|+ $folder_name\l+ $mybrowser\l|+ setUp()\l+ testBasicFolder()\l}" alt="" coords="156,924,301,1031"/>
+<area shape="rect" id="node6" href="$dd/d8f/classbrowseUPloadedTest.html" title="{browseUPloadedTest\n|+ $mybrowser\l+ $host\l|+ setUp()\l+ testBrowseUploaded()\l}" alt="" coords="326,924,505,1031"/>
+<area shape="rect" id="node7" href="$d0/d7c/classcleanupRF.html" title="{cleanupRF\n|+ $mybrowser\l|+ setUp()\l+ testRmRFContent()\l}" alt="" coords="529,931,688,1023"/>
+<area shape="rect" id="node8" href="$dd/dc2/classcleanupTestData.html" title="{cleanupTestData\n|+ $mybrowser\l+ $webProxy\l|+ setUp()\l+ testRmTestingFolders()\l+ testRmUploads()\l}" alt="" coords="712,917,895,1038"/>
+<area shape="rect" id="node9" href="$d0/dac/classCreateDeleteFldrTest.html" title="{CreateDeleteFldrTest\n|+ $folder_name\l+ $mybrowser\l|+ setUp()\l+ testCreateDeleteFldr()\l}" alt="" coords="919,924,1099,1031"/>
+<area shape="rect" id="node10" href="$df/d73/classCreateFolderTest.html" title="{CreateFolderTest\n|+ $folder_name\l+ $mybrowser\l|+ setUp()\l+ testCreateFolder()\l+ tearDown()\l}" alt="" coords="1123,917,1278,1038"/>
+<area shape="rect" id="node11" href="$d0/da2/classcreateSuiUsers.html" title="{createSuiUsers\n|+ $mybrowser\l+ $webProxy\l|+ setUp()\l+ testcreateSuiUsers()\l}" alt="" coords="1302,924,1473,1031"/>
+<area shape="rect" id="node12" href="$db/dbe/classcreateUIUsers.html" title="{createUIUsers\n|+ $mybrowser\l+ $webProxy\l# $roUserFolderId\l# $rwUserFolderId\l# $uploaderFolderId\l# $analyzeFolderId\l# $downLoaderFolderId\l|+ setUp()\l+ testcreateUiUsers()\l}" alt="" coords="1497,887,1669,1067"/>
+<area shape="rect" id="node13" href="$db/d62/classDeleteFolderTest.html" title="{DeleteFolderTest\n|+ $folder_name\l+ $mybrowser\l|+ setUp()\l+ testDeleteFolder()\l}" alt="" coords="1693,924,1847,1031"/>
+<area shape="rect" id="node14" href="$df/d0d/classDupFolderTest.html" title="{DupFolderTest\n|+ $folder_name\l+ $mybrowser\l|+ setUP()\l+ testCreateFolder()\l+ tearDown()\l}" alt="" coords="1871,917,2026,1038"/>
+<area shape="rect" id="node15" href="$da/d6c/classDupUploadTest.html" title="{DupUploadTest\n|+ $mybrowser\l|+ setUP()\l+ testUploadFile()\l}" alt="" coords="2051,931,2188,1023"/>
+<area shape="rect" id="node16" href="$d9/d9e/classDupUserTest.html" title="{DupUserTest\n|+ $mybrowser\l&#45; $UserName\l|+ setUP()\l+ testDupUser()\l+ tearDown()\l}" alt="" coords="2213,917,2341,1038"/>
+<area shape="rect" id="node17" href="$d0/d4a/classEditFolderDescriptionOnlyTest.html" title="{EditFolderDescriptionOnlyTest\n|+ $folder_name\l+ $mybrowser\l|+ setUp()\l+ testEditFolderDescriptionOnly()\l+ tearDown()\l}" alt="" coords="2365,917,2599,1038"/>
+<area shape="rect" id="node18" href="$db/d8b/classEditFolderNameOnlyTest.html" title="{EditFolderNameOnlyTest\n|+ $folder_name\l+ $mybrowser\l+ $newname\l|+ setUp()\l+ testEditNameOnlyFolder()\l+ tearDown()\l}" alt="" coords="2623,909,2826,1045"/>
+<area shape="rect" id="node19" href="$db/d5a/classEditFolderTest.html" title="{EditFolderTest\n|+ $editFolderName\l+ $mybrowser\l+ $newname\l|+ setUp()\l+ testEditFolder()\l+ tearDown()\l}" alt="" coords="2850,909,2997,1045"/>
+<area shape="rect" id="node20" href="$d5/d03/classEmailUserTest.html" title="{EmailUserTest\n|+ $mybrowser\l# $User\l|+ setUP()\l+ testEmailUser()\l}" alt="" coords="3021,924,3159,1031"/>
+<area shape="rect" id="node21" href="$d1/dfc/classFoldersCreateMenuTest.html" title="{FoldersCreateMenuTest\n|+ $mybrowser\l|+ testCreateFolderMenu()\l}" alt="" coords="3183,939,3373,1016"/>
+<area shape="rect" id="node22" href="$d4/dcd/classFoldersDeleteMenuTest.html" title="{FoldersDeleteMenuTest\n|+ $mybrowser\l|+ testFolderDeleteMenu()\l}" alt="" coords="3397,939,3585,1016"/>
+<area shape="rect" id="node23" href="$d0/dc8/classFoldersEditMenuTest.html" title="{FoldersEditMenuTest\n||+ testFolderEditMenu()\l}" alt="" coords="3610,939,3781,1016"/>
+<area shape="rect" id="node24" href="$d0/def/classFoldersMoveMenuTest.html" title="{FoldersMoveMenuTest\n||+ testFolderMoveMenu()\l}" alt="" coords="3805,939,3985,1016"/>
+<area shape="rect" id="node25" href="$da/dd5/classMoveFolderTest.html" title="{MoveFolderTest\n|+ $folder2Move\l+ $moveFolder\l+ $mybrowser\l+ $upload2Move\l+ $fromFolder\l+ $toFolder\l|+ setUp()\l+ testMoveFolder()\l+ tearDown()\l+ setUp()\l+ testMoveUpload()\l+ tearDown()\l}" alt="" coords="4009,865,4160,1089"/>
+<area shape="rect" id="node26" href="$da/d92/classmyFirstTest.html" title="{myFirstTest\n|+ $mybrowser\l+ $testFolder\l|+ setUp()\l+ testmytest()\l+ tearDown()\l}" alt="" coords="4185,917,4302,1038"/>
+<area shape="rect" id="node27" href="$d8/dbe/classnoEmailUserTest.html" title="{noEmailUserTest\n|+ $mybrowser\l|+ setUP()\l+ testNoEmailUser()\l}" alt="" coords="4326,931,4481,1023"/>
+<area shape="rect" id="node28" href="$d8/d6f/classOneShotgplv21Test.html" title="Run one&#45;shot license analysis on LGPL_v2.1 license. " alt="" coords="4505,924,4675,1031"/>
+<area shape="rect" id="node29" href="$d9/d33/classOneShotTablegplv21Test.html" title="{OneShotTablegplv21Test\n||+ setUp()\l+ testOneShotTablegplv21()\l}" alt="" coords="4699,931,4902,1023"/>
+<area shape="rect" id="node30" href="$df/d44/classrhelTest.html" title="{rhelTest\n|+ $mybrowser\l# $host\l|+ setUp()\l+ testRHEL()\l}" alt="" coords="4926,924,5041,1031"/>
+<area shape="rect" id="node31" href="$d8/dff/classrunMyTest.html" title="{runMyTest\n|+ $mybrowser\l+ $testFolder\l|+ setUp()\l+ testmytest()\l+ tearDown()\l}" alt="" coords="5065,917,5182,1038"/>
+<area shape="rect" id="node32" href="$d1/d12/classSearchMenuTest.html" title="{SearchMenuTest\n|+ $mybroswer\l|+ testSearchMenu()\l}" alt="" coords="5206,939,5358,1016"/>
+<area shape="rect" id="node33" href="$d5/d20/classsomeTest.html" title="{someTest\n|+ $mybrowser\l+ $someOtherVariable\l|+ setUp()\l+ testsome()\l+ tearDown()\l}" alt="" coords="5382,917,5550,1038"/>
+<area shape="rect" id="node34" href="$df/ded/classTestAboutMenu.html" title="{TestAboutMenu\n|+ $mybrowser\l|+ testMenuAbout()\l+ testMenuAbout()\l}" alt="" coords="5575,931,5720,1023"/>
+<area shape="rect" id="node35" href="$df/d23/classTestRepoLogin.html" title="{TestRepoLogin\n||+ testLogin()\l+ testLogin()\l}" alt="" coords="5745,931,5857,1023"/>
+<area shape="rect" id="node36" href="$d9/d2f/classUploadFileMenuTest.html" title="{UploadFileMenuTest\n||+ testUploadFileMenu()\l}" alt="" coords="5881,939,6053,1016"/>
+<area shape="rect" id="node37" href="$d7/dcb/classUploadFileTest.html" title="{UploadFileTest\n|+ $mybrowser\l|+ setUP()\l+ testUploadFile()\l}" alt="" coords="6077,931,6215,1023"/>
+<area shape="rect" id="node38" href="$d7/d2d/classUploadInstructMenuTest.html" title="{UploadInstructMenuTest\n||+ testUploadInstructMenu()\l}" alt="" coords="6239,939,6439,1016"/>
+<area shape="rect" id="node39" href="$df/d66/classUploadOneShotMenuTest.html" title="{UploadOneShotMenuTest\n||+ testUploadOneShotMenu()\l}" alt="" coords="6463,939,6671,1016"/>
+<area shape="rect" id="node40" href="$d9/d26/classUploadsDeleteMenuTest.html" title="{UploadsDeleteMenuTest\n||+ testUploadsDeleteMenu()\l}" alt="" coords="6696,939,6897,1016"/>
+<area shape="rect" id="node41" href="$d4/dfd/classUploadServerMenuTest.html" title="{UploadServerMenuTest\n||+ testUploadServerMenu()\l}" alt="" coords="6922,939,7117,1016"/>
+<area shape="rect" id="node42" href="$d2/d04/classUploadsMoveMenuTest.html" title="{UploadsMoveMenuTest\n||+ testUploadsMoveMenu()\l}" alt="" coords="7141,939,7335,1016"/>
+<area shape="rect" id="node43" href="$d7/d44/classuploadSrvDirTest.html" title="{uploadSrvDirTest\n|+ $mybrowser\l|+ testUploadSrvDir()\l# setUp()\l}" alt="" coords="7359,931,7515,1023"/>
+<area shape="rect" id="node44" href="$d1/d90/classuploadSrvFileTest.html" title="{uploadSrvFileTest\n|+ $mybrowser\l|+ testUploadSrvFile()\l# setUp()\l}" alt="" coords="7539,931,7697,1023"/>
+<area shape="rect" id="node45" href="$d8/d6d/classUploadSrvTest.html" title="{UploadSrvTest\n||+ setUp()\l+ testUploadUSrv()\l}" alt="" coords="7721,931,7869,1023"/>
+<area shape="rect" id="node46" href="$d2/dab/classuploadTestDataTest.html" title="{uploadTestDataTest\n|+ $mybrowser\l+ $webProxy\l|+ setUp()\l+ testCreateTestingFolder()\l+ testuploadTestDataTest()\l+ setUp()\l+ testCreateTestingFolder()\l+ testuploadTestDataTest()\l}" alt="" coords="7893,895,8092,1060"/>
+<area shape="rect" id="node47" href="$db/de2/classuploadUnpack.html" title="{uploadUnpack\n|+ $mybrowser\l+ $webProxy\l|+ setUp()\l+ testCreateTestingFolder()\l+ testuploadUnpack()\l}" alt="" coords="8116,917,8315,1038"/>
+<area shape="rect" id="node48" href="$db/d0b/classUploadUrlMenuTest.html" title="{UploadUrlMenuTest\n||+ testUploadUrlMenu()\l}" alt="" coords="8339,939,8510,1016"/>
+<area shape="rect" id="node49" href="$d2/d85/classUploadUrlTest.html" title="{UploadUrlTest\n||+ testUploadUrl()\l}" alt="" coords="8535,939,8669,1016"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Fossology\Lib\Db\DbManager" name="Fossology\Lib\Db\DbManager">
+<area shape="rect" id="node2" href="$de/da5/classFossology_1_1Lib_1_1Db_1_1ModernDbManager.html" title="{Fossology\\Lib\\Db\\ModernDb\lManager\n||+ __construct()\l+ prepare()\l+ execute()\l}" alt="" coords="5,417,204,538"/>
+<area shape="rect" id="node3" href="$db/d8d/classFossology_1_1Lib_1_1Db_1_1SolidDbManager.html" title="{Fossology\\Lib\\Db\\SolidDb\lManager\n||+ __construct()\l+ prepare()\l+ execute()\l&#45; evaluateStatement()\l}" alt="" coords="228,409,411,545"/>
+</map>

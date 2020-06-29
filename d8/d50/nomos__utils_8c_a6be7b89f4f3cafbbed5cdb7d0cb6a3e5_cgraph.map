@@ -1,0 +1,9 @@
+<map id="recordScanToDB" name="recordScanToDB">
+<area shape="rect" id="node2" href="$d8/d50/nomos__utils_8c.html#ac23cb87ad57c3be8ba3fbf7d36aa5073" title="Add a license to hash table, license table and highlight array. " alt="" coords="180,5,396,47"/>
+<area shape="rect" id="node3" href="$d8/d50/nomos__utils_8c.html#a4d719b0fb4699ff389055b83b64eea18" title="parse the comma separated list of license names found " alt="" coords="224,71,352,98"/>
+<area shape="rect" id="node4" href="$d8/d50/nomos__utils_8c.html#afac2f6139e340c481f6e1d307ee8f7b8" title="insert rf_fk, agent_fk, offset, len and type into highlight table " alt="" coords="193,122,383,149"/>
+<area shape="rect" id="node5" href="$d8/d50/nomos__utils_8c.html#aca6e5e3bfc983a362480cd0d635e9748" title="Check if an CLI option is set. " alt="" coords="503,46,597,73"/>
+<area shape="rect" id="node6" href="$d8/d50/nomos__utils_8c.html#a9a90c5f3191254f1a927f82235bdee88" title="Get the MatchPositionAndType for a given index in highlight array. " alt="" coords="455,97,645,123"/>
+<area shape="rect" id="node7" href="$dd/d15/standalone_8c.html#a34d1c5cabbcbb027b77188d5ed5e1532" title="Execute a prepared statement. " alt="" coords="446,147,654,174"/>
+<area shape="rect" id="node8" href="$d8/d50/nomos__utils_8c.html#aa4dc1f00d99077bb64fa5f1c6f4b1dad" title="Get the LicenceAndMatchPositions for a given index in match array. " alt="" coords="444,198,656,225"/>
+</map>

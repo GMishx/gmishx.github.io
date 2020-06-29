@@ -1,0 +1,8 @@
+<map id="HistogramBase" name="HistogramBase">
+<area shape="rect" id="node4" href="$d2/d9e/classCopyrightHistogram.html" title="Create histogram plugin for copyright. " alt="" coords="5,1056,164,1192"/>
+<area shape="rect" id="node5" href="$d0/d27/classEccHistogram.html" title="Create UI plugin for ecc agent. " alt="" coords="188,1056,347,1192"/>
+<area shape="rect" id="node6" href="$df/dc3/classEmailHistogram.html" title="{EmailHistogram\n||+ __construct()\l+ RegisterMenus()\l# getTableContent()\l# fillTables()\l# createScriptBlock()\l}" alt="" coords="371,1056,529,1192"/>
+<area shape="rect" id="node7" href="$de/da6/classKeywordHistogram.html" title="{KeywordHistogram\n||+ __construct()\l+ RegisterMenus()\l# getTableContent()\l# fillTables()\l# createScriptBlock()\l}" alt="" coords="553,1056,712,1192"/>
+<area shape="rect" id="node2" href="$d7/d54/classFO__Plugin.html" title="This is the Plugin class. All plugins should: " alt="" coords="288,219,428,692"/>
+<area shape="rect" id="node3" href="$d8/d3d/interfaceFossology_1_1Lib_1_1Plugin_1_1Plugin.html" title="{Fossology\\Lib\\Plugin\l\\Plugin\n||+ execute()\l+ preInstall()\l+ postInstall()\l+ unInstall()\l+ getName()\l+ __toString()\l}" alt="" coords="283,5,433,171"/>
+</map>

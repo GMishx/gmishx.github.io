@@ -1,0 +1,12 @@
+<map id="processNonPackagedFiles" name="processNonPackagedFiles">
+<area shape="rect" id="node2" href="$d7/d40/list_8c.html#a50a7d85803c1b3d273421722c07587a3" title="print the passed in list " alt="" coords="274,56,353,83"/>
+<area shape="rect" id="node5" href="$db/db4/nomos_2agent_2process_8c.html#abdb43e111df95dcb97b0f636615c0587" title="Process a list of regular files. " alt="" coords="240,107,387,133"/>
+<area shape="rect" id="node7" href="$d7/d40/list_8c.html#a5fec5dbcf5422eb7641a577438dda2d0" title="get an item from the itemlist. If the item is not in the itemlist, then add it to the itemlist..." alt="" coords="267,157,359,184"/>
+<area shape="rect" id="node8" href="$df/d20/pkgConfig_8php.html#aba2ceda75653375bee97cfab3ad5fd24" title="start the application Assumes application is restartable via /etc/init.d/&lt;script&gt;. The application passed in should match the script name in /etc/init.d " alt="" coords="287,208,339,235"/>
+<area shape="rect" id="node9" href="$d5/d97/nomos_2agent_2util_8c.html#a1a8f00080afc71d99c6d00f50e01cdbe" title="Find Begin of Line in a string. " alt="" coords="281,259,346,285"/>
+<area shape="rect" id="node10" href="$d5/d97/nomos_2agent_2util_8c.html#ad7d08dddc64a2e1b8cda6dbe76b465fa" title="Find first ROL in a string. " alt="" coords="281,309,345,336"/>
+<area shape="rect" id="node11" href="$d5/d97/nomos_2agent_2util_8c.html#a927548efd0863632e6ef0772e6d7fc8e" title="Raise an assert. " alt="" coords="282,360,345,387"/>
+<area shape="rect" id="node3" href="$d0/da5/libfossagent_8c.html#a4cab43818321714ab944d8323575a401" title="Get the maximum group privilege. " alt="" coords="459,5,509,32"/>
+<area shape="rect" id="node4" href="$dd/d34/nomos_8h.html#aa4aa3468fba5dfb2a0ad91ce91faec83" title="Close connections and exit. " alt="" coords="461,56,507,83"/>
+<area shape="rect" id="node6" href="$dc/d7b/licenses_8c.html#a6a9fae7885d4c21dd2ed454747694e21" title="scan the list for a license(s) " alt="" coords="435,107,533,133"/>
+</map>

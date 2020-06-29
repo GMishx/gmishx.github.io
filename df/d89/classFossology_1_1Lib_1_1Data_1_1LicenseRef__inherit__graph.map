@@ -1,0 +1,3 @@
+<map id="Fossology\Lib\Data\LicenseRef" name="Fossology\Lib\Data\LicenseRef">
+<area shape="rect" id="node2" href="$d7/db3/classFossology_1_1Lib_1_1Data_1_1License.html" title="{Fossology\\Lib\\Data\l\\License\n|&#45; $text\l&#45; $url\l&#45; $risk\l&#45; $detectorType\l&#45; $spdxCompatible\l|+ __construct()\l+ getRisk()\l+ getDetectorType()\l+ getSpdxCompatible()\l+ getText()\l+ getUrl()\l+ getRef()\l}" alt="" coords="5,233,179,472"/>
+</map>

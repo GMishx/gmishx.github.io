@@ -1,0 +1,4 @@
+<map id="Fossology\Lib\Html\HtmlElement" name="Fossology\Lib\Html\HtmlElement">
+<area shape="rect" id="node2" href="$d0/d3a/classFossology_1_1Lib_1_1Html_1_1SimpleHtmlElement.html" title="{Fossology\\Lib\\Html\l\\SimpleHtmlElement\n|&#45; $name\l&#45; $attributes\l|+ __construct()\l+ setAttribute()\l+ getOpeningText()\l+ getClosingText()\l}" alt="" coords="5,175,160,325"/>
+<area shape="rect" id="node3" href="$d5/de2/classFossology_1_1Lib_1_1Html_1_1LinkElement.html" title="{Fossology\\Lib\\Html\l\\LinkElement\n||+ __construct()\l}" alt="" coords="11,373,154,465"/>
+</map>
